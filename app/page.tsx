@@ -1244,15 +1244,6 @@ export default function JamaicaImportCalculator() {
                   PSI certificate required for used vehicles
                 </p>
               </div>
-              <div className="flex gap-3 items-start">
-                <CheckCircle
-                  className="w-4 h-4 text-emerald-400 shrink-0 mt-0.5"
-                  strokeWidth={1.5}
-                />
-                <p className="text-slate-300">
-                  Taxi operators: Route taxi license ~$15,000 JMD/year required
-                </p>
-              </div>
             </div>
           </div>
         )}
